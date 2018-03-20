@@ -1,2 +1,2 @@
 # linal101
-Linear Algebra cheat sheet based on MIT course in a form of Python Notebook
+Linear Algebra lecture notes, cheat sheets and Python implementation of certain calculations and algorithms. Based on MIT course. Presented in a form of Python Notebook.
